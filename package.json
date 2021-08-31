@@ -10,6 +10,7 @@
     "client": "npm start --prefix application",
     "dev": "concurrently \"npm run server\" \"npm run client\"",
     "data:import": "node microservices/seeder",
+    "data:automotive": "node microservices/seederauto",
     "data:destroy": "node microservices/seeder -d",
     "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install --prefix application && npm run build --prefix application"
   },
