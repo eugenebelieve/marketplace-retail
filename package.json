@@ -9,8 +9,9 @@
     "server": "nodemon microservices/server",
     "client": "npm start --prefix application",
     "dev": "concurrently \"npm run server\" \"npm run client\"",
-    "data:import": "node microservices/seeder",
-    "data:automotive": "node microservices/seederauto",
+    "data:general": "node microservices/seeder",
+    "data:automotive": "node microservices/automotive",
+    "data:retail": "node microservices/retail",
     "data:destroy": "node microservices/seeder -d",
     "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install --prefix application && npm run build --prefix application"
   },

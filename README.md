@@ -2,14 +2,14 @@
 
 ### Env Variables
 
-Create a .env file in then root and add the following
+Create or modify the .env file in then root and add the following
 
 ```
-NODE_ENV = development
-PORT = 5000
-MONGO_URI = your mongodb uri
-JWT_SECRET = 'abc123'
-PAYPAL_CLIENT_ID = your paypal client id
+NODE_ENV = 'development'
+PORT = '5000'
+MONGO_URI = "YOUR_MONGODB_URI_HERE"
+JWT_SECRET = 'random_secret_key'
+PAYPAL_CLIENT_ID = 'your paypal client id'
 ```
 
 ### Install Dependencies (frontend & backend)
@@ -23,7 +23,7 @@ npm install
 ### Run
 
 ```
-# Run frontend (:3000) & backend (:5000)
+# Run frontend Application (:3000) & Microservices (:5000)
 npm run dev
 
 # Run backend only
@@ -35,12 +35,14 @@ npm run server
 You can use the following commands to seed the database with some sample users and products as well as destroy all data
 
 ```
-# Import data
-npm run data:import
+# Import General data
+npm run data:general
 
-# Import automotive data
+# Import Automotive data
 npm run data:automotive
 
+# Import Retail data
+npm run data:retail
 
 # Destroy data
 npm run data:destroy
