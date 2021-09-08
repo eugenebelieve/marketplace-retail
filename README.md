@@ -32,14 +32,7 @@ cd frontend
 npm install
 ```
 
-### Run
-
-```
-# Run frontend Application (:3000) & Microservices (:5000)
-npm run dev
-```
-
-### Dataset Import
+### Import Dataset
 
 You can use the following commands to seed the database with some sample users and products as well as destroy all data
 
@@ -50,6 +43,15 @@ npm run data:retail
 # Destroy data
 npm run data:destroy
 ```
+
+### Run
+
+```
+# Run frontend Application (:3000) & Microservices (:5000)
+npm run dev
+```
+
+
 
 ```
 #Sample User Logins created once imported
