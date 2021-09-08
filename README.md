@@ -2,9 +2,9 @@
 
 ## Usage
 
-# Env Variables
+### Clone Repositorie
 
-Clone the project on your local machine
+Clone this Repositorie to your local machine
 
 ```
 git clone https://github.com/eugenebelieve/marketplace-retail.git
