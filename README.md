@@ -28,7 +28,7 @@ PAYPAL_CLIENT_ID = 'YOUR_MONGODB_PAYPAL_ID_HERE'
 
 ```
 npm install
-cd frontend
+cd application
 npm install
 ```
 
@@ -47,7 +47,7 @@ npm run data:destroy
 ### Run
 
 ```
-# Run frontend Application (:3000) & Microservices (:5000)
+# From Root Directory Run frontend Application (:3000) & Microservices (:5000)
 npm run dev
 ```
 
