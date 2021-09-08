@@ -2,7 +2,7 @@
 
 # Usage
 
-## Retail Marketplace (NodeJS, ExpressJS, ReactJS & JWT)
+## Retail Marketplace (MongoDB, NodeJS, ExpressJS, ReactJS & JWT)
 
 ### Clone Repositorie
 
