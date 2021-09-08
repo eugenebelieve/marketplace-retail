@@ -21,7 +21,7 @@ NODE_ENV = 'development'
 PORT = '5000'
 MONGO_URI = "YOUR_MONGODB_URI_HERE"
 JWT_SECRET = 'random_secret_key'
-PAYPAL_CLIENT_ID = 'your paypal client id'
+PAYPAL_CLIENT_ID = 'YOUR_MONGODB_PAYPAL_ID_HERE'
 ```
 
 ### Install Dependencies (frontend & backend)
@@ -69,4 +69,7 @@ jane@example.com (Customer)
 
 ## More Previews (Product & Shopping Cart)
 
-<div><img src="application/public/images/retail/product.png" alt="dashboard" height="250"><img src="application/public/images/retail/kart.png" alt="dashboard" height="250"></div>
+<div>
+<img src="application/public/images/retail/product.png" alt="dashboard" height="250">
+<img src="application/public/images/retail/kart.png" alt="dashboard" height="250">
+</div>
