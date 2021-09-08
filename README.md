@@ -34,7 +34,7 @@ npm install
 
 ### Import Dataset
 
-You can use the following commands to seed the database with some sample users and products as well as destroy all data
+You can use the following commands generate some sample users and products as well as destroy all data, directly in your Database
 
 ```
 # To Import Retail & User Data, run command from root directory
