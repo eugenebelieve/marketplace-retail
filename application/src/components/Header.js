@@ -18,10 +18,10 @@ const Header = () => {
 
   return (
     <header>
-      <Navbar variant='dark' style={{backgroundColor:'#232f3e'}} expand='lg' collapseOnSelect>
+      <Navbar variant='dark' style={{backgroundColor:'#C68642'}} expand='lg' collapseOnSelect>
         <Container>
           <LinkContainer to='/'>
-            <Navbar.Brand>Marketplace</Navbar.Brand>
+            <Navbar.Brand>Retail Market</Navbar.Brand>
           </LinkContainer>
           <Navbar.Toggle aria-controls='basic-navbar-nav' />
           <Navbar.Collapse id='basic-navbar-nav'>

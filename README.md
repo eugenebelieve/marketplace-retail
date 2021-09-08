@@ -35,12 +35,6 @@ npm run server
 You can use the following commands to seed the database with some sample users and products as well as destroy all data
 
 ```
-# Import General data
-npm run data:general
-
-# Import Automotive data
-npm run data:automotive
-
 # Import Retail data
 npm run data:retail
 
