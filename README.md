@@ -1,6 +1,6 @@
 <img src="application/public/images/retail/marketplace_retail.png" alt="dashboard" height="400">
 
-## Usage
+# Usage
 
 ### Clone Repositorie
 
