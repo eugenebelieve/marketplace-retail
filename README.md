@@ -32,7 +32,7 @@ npm run dev
 npm run server
 ```
 
-### Data Import
+### Dataset Import
 
 You can use the following commands to seed the database with some sample users and products as well as destroy all data
 
