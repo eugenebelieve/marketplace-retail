@@ -47,7 +47,7 @@ npm run data:destroy
 ### Run
 
 ```
-# From Root Directory Run frontend Application (:3000) & Microservices (:5000)
+# From root directory Run frontend Application (:3000) & Microservices (:5000)
 npm run dev
 ```
 
