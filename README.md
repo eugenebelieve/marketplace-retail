@@ -66,3 +66,7 @@ john@example.com (Customer)
 jane@example.com (Customer)
 123456
 ```
+
+## More Previews (Catalog and Cart)
+
+<div><img src="application/public/images/retail/product.png" alt="dashboard" height="250"><img src="application/public/images/retail/kart.png" alt="dashboard" height="250"></div>
