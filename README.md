@@ -51,7 +51,7 @@ npm run data:destroy
 npm run dev
 ```
 
-
+### Generated Accounts
 
 ```
 #Sample User Logins created once imported
