@@ -12,7 +12,7 @@ Clone this Repositorie to your local machine
 git clone https://github.com/eugenebelieve/marketplace-retail.git
 ```
 
-### Env Variables
+### Add Env Variables
 
 Create or modify the .env file in then root and add the following
 
