@@ -47,14 +47,14 @@ npm run data:destroy
 ### Run
 
 ```
-# From root directory Run frontend Application (:3000) & Microservices (:5000)
+# Run frontend Application (:3000) & Microservices (:5000), from root directory 
 npm run dev
 ```
 
 ### Generated Accounts
 
 ```
-#Sample User Logins created once imported
+#Sample User Logins created
 
 admin@example.com (Admin)
 123456
