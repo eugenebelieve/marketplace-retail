@@ -37,7 +37,7 @@ npm install
 You can use the following commands to seed the database with some sample users and products as well as destroy all data
 
 ```
-# To Import Retail & User Data
+# To Import Retail & User Data, run command from root directory
 npm run data:retail
 
 # Destroy data
