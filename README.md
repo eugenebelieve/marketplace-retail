@@ -52,7 +52,7 @@ npm run data:destroy
 ```
 
 ```
-Sample User Logins
+#Sample User Logins created once imported
 
 admin@example.com (Admin)
 123456
