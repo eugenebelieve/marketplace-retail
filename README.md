@@ -21,7 +21,7 @@ NODE_ENV = 'development'
 PORT = '5000'
 MONGO_URI = "YOUR_MONGODB_URI_HERE"
 JWT_SECRET = 'random_secret_key'
-PAYPAL_CLIENT_ID = 'YOUR_MONGODB_PAYPAL_ID_HERE'
+PAYPAL_CLIENT_ID = 'YOUR_DEV_PAYPAL_ID_HERE'
 ```
 
 ### Install Dependencies (frontend & backend)
