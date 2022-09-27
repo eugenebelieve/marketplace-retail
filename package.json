@@ -15,7 +15,7 @@
     "data:destroy": "node microservices/seeder -d",
     "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install --prefix application && npm run build --prefix application"
   },
-  "author": "Brad Traversy",
+  "author": "Eugène B",
   "license": "MIT",
   "dependencies": {
     "bcryptjs": "^2.4.3",
